@@ -7,6 +7,8 @@ Creator : Oblivia
 TODO:
 Need to figure out some kind of bot ban system, for example if person is blacklisted, and he attempts to join raid group, bot immediatelly kicks person out and warns whole raid group the reason he's banned.
 Fix known bugs.
+Guild message announcement.
+Chat filter (mostly swearing, gold begging, racism or innapropriate language)
 
 
 
